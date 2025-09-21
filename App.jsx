@@ -285,7 +285,9 @@ const PantallaLogin = ({ onLogin }) => {
     <div className="login-container">
       <div className="login-card">
         <div className="login-logo-container">
-          <div className="login-logo">MM</div>
+          <div className="login-logo">
+            <img src="/logo.svg" alt="Mezclas de mamá" style={{ width: '60px', height: '60px', objectFit: 'contain' }} />
+          </div>
           <h2 className="login-title">Bienvenida</h2>
           <p className="login-subtitle">Accede a tu sistema de ventas</p>
         </div>
