@@ -1,5 +1,7 @@
 # Mezclas de Mamá - Sistema de Ventas
 
+Autor: Fausto GuTe
+
 Sistema de gestión de ventas para aceites esenciales desarrollado con React + Supabase.
 
 ## Funcionalidades
